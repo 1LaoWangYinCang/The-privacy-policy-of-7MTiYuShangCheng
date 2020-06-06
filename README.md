@@ -1,4 +1,4 @@
-# The-privacy-policy-of-red-packet-diary
+# The-privacy-policy-of-TianTianHongBao
 This App knows the importance of personal information to you and will do its best to protect your personal information safely and reliably. We are committed to maintaining your trust in us and to protecting your personal information by adhering to the following principles: the principle of consistent authority and responsibility, the principle of clear purpose, the principle of optional consent, the principle of least sufficient, the principle of ensuring safety, the principle of subject participation, the principle of openness and transparency, etc. At the same time, we promise that we will take appropriate security measures to protect your personal information in accordance with the industry's mature security standards. Please read and understand this Privacy Policy carefully before using our products (or services).
 How do we collect and use your personal information
 Personal information refers to all kinds of information recorded by electronic or other means that can identify the identity of a particular natural person or reflect the activities of a particular natural person individually or in combination with other information. We will only collect and use your personal Information for the following purposes set forth in this Policy:
@@ -44,6 +44,6 @@ Account information -- If you want to access or edit your account's personal inf
 V. How to update this Privacy Policy
 We may adjust or change this Privacy Policy in due course, and any update of this Privacy Policy will be posted on our website at the time of the update. Unless otherwise mandatory by laws, regulations or regulations, the content adjusted or changed will take effect 7 days after notice or publication. If you continue to use any of our services or visit our website after the policy has been adjusted or changed, we believe that you have fully read, understood and accepted the revised Privacy Policy and are bound by it.
 How to contact us
-If you have any questions, comments or Suggestions about this privacy policy, please contact us through the contact way of haj19841101@icloud.com:
+If you have any questions, comments or Suggestions about this privacy policy, please contact us through the contact way of ffxq19940605@icloud.com:
 
 As a rule, we will reply you within 30 days.
